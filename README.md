@@ -1,4 +1,4 @@
-# Arithmetic evaluator
+# Arithmetic Evaluator
 
 A program that uses stacks to evaluate an arithmetic expression in infix notation without converting it into postfix notation.
 
