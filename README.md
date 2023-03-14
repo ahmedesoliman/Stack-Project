@@ -4,6 +4,8 @@ A program that uses stacks to evaluate an arithmetic expression in infix notatio
 
 The program takes an input as s numeric expression in infix notation, such as 3+4\*2, and outputs the result.
 
+Arithmetic_Evaluator is a simple console application built using C++ that evaluates arithmetic expressions. The application supports basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as parentheses to group operations. Arithmetic_Evaluator provides an easy-to-use and efficient solution for evaluating arithmetic expressions programmatically.
+
 - 1.  Operators are +, -, \*, /, ^
 - 2.  The expression should be formed correctly so that each operation has two arguments.
 - 3.  The expression can have parenthesis, for example: 3\*(4-2)+6.
